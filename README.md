@@ -2,9 +2,8 @@
 
 Adocs is a modern and customizable static documentation site built with **VitePress**. It is designed for developers and teams to create clean, user-friendly documentation with ease.
 
-## 🚀 Live Demo
-🔗 **[adocs](https://adocs.vercel.app/)**  
-
+## Adocs  
+![Adocs Thumbnail](https://github.com/sharryXheisenberg/adocs/blob/main/adocs.png)  
 ---
 
 ## 📌 Features
